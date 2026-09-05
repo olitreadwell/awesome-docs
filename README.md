@@ -56,7 +56,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [adoc Studio](https://adoc-studio.app)
 - [AdocEditor](https://adoceditor.com/)
 - [Asciidoctor](https://asciidoctor.org/)
-- [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
+- [AsciiDoc Alive](https://web.archive.org/web/20260311230934/https://asciidocalive.docswriter.com/)
 - [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
 - [Asciidoc FX](https://www.asciidocfx.com/)
 
